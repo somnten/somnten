@@ -1,4 +1,4 @@
-# Shaka Nkosi — Systems Architect & Solo Founder
+# Systems Architect & Solo Founder — Building Mirus
 
 I build operational AI infrastructure for mid-market enterprise under **[Mirus](https://miruslabs.dev)** — custom systems that replace manual administrative work: document parsing, judgment/routing engines, and knowledge assistants.
 
@@ -6,4 +6,4 @@ I build operational AI infrastructure for mid-market enterprise under **[Mirus](
 - Recent public work: [miruslabs.dev](https://miruslabs.dev) — operational AI infrastructure, deployed on Cloudflare's edge
 - Open to: interesting automation problems, especially document-heavy operations
 
-miruslabs.dev · hello@miruslabs.dev · Port of Spain, Trinidad & Tobago — working globally
+miruslabs.dev · hello@miruslabs.dev — working globally from the Caribbean
